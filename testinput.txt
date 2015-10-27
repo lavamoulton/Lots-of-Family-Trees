@@ -1,0 +1,26 @@
+E John Mary Bill
+E John Mary Pete
+E John Mary Fred
+E John Jean Rebecca
+E Rebecca Bill Andrew
+E Pete Carol Jim
+W parent Pete
+W parent John
+W spouse John
+W spouse Fred
+W spouse Cathy
+W ancestor Andrew
+W ancestor John
+W ancestor Cathy
+W relative Rebecca
+W relative Mary
+W sibling Fred
+W sibling Jim
+W unrelated Andrew
+W unrelated Mary
+X Bill sibling Pete
+X Bill sibling Fred
+X Cathy sibling Fred
+R John Mary
+X Bill relative Mary
+R Cathy Todd
